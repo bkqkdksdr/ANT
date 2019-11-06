@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ANTreal", "ANTreal\ANTreal.vcxproj", "{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Debug|x64.ActiveCfg = Debug|x64
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Debug|x64.Build.0 = Debug|x64
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Debug|x86.ActiveCfg = Debug|Win32
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Debug|x86.Build.0 = Debug|Win32
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Release|x64.ActiveCfg = Release|x64
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Release|x64.Build.0 = Release|x64
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Release|x86.ActiveCfg = Release|Win32
+		{72A63F8A-5EEA-4AE8-9CF6-9AA9741D0717}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3AEE0A-929D-410C-9C79-9C8336CE49C0}
+	EndGlobalSection
+EndGlobal
